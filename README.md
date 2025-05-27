@@ -80,15 +80,119 @@
 
 ## 💡 My Featured Projects
 
-<!-- GitHub will automatically display your Pinned Repositories below this. -->
-<!-- Make sure you've Pinned your best repositories! -->
-<!-- You can also manually add links to other projects here if you wish:
-### 🚀 [Cool Project Name 1](PROJECT_URL_1)
-A brief description of your awesome project. What tech, what features.
+Below are some of the projects I'm proud to have worked on. I enjoy leveraging modern technologies to create impactful and user-friendly applications.
 
-### 🌟 [Cool Project Name 2](PROJECT_URL_2)
-Another brief description of another cool project.
--->
+---
+
+### 🚀 [GISACT.io](LINK_TO_GISACT_IO_OR_REPO)
+GISACT is a company focused on providing geo-intelligence for data-driven decisions, empowering decision-making in ecosystem conservation with next-generation geospatial technology. Their interactive platforms allow users to store, visualize, analyze, and collaborate on geospatial data.
+*   **Key Features:** Interactive geospatial data visualization, advanced data processing, collaborative tools.
+*   **Technologies:**
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+      <a href="https://postgis.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgis/postgis-plain-wordmark.svg" width="36" height="36" alt="PostGIS" /></a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresqlgenerator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+    <!-- For PostGIS, you might use the PostgreSQL icon and specify, or find a specific PostGIS icon if available -->
+    <span>PostGIS</span> 
+    <span>AI</span> 
+    <span>Data Analytics</span>
+
+---
+
+### 🌟 [Runtah Tracker](LINK_TO_RUNTAH_TRACKER_OR_REPO)
+"Runtah Tracker: Rancamanyar! version 2.0" is a platform designed for tracking and analyzing waste data. It provides insights into waste trends, river waste, and waste transportation coverage, featuring data layers and selectable basemaps.
+*   **Key Features:** Waste data visualization, trend analysis, transportation coverage mapping, interactive layers.
+*   **Technologies:**
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+      <br/>AI & Data Analytics
+    </p>
+
+---
+
+### 🌟 [Runtah Tracker](LINK_TO_RUNTAH_TRACKER_OR_REPO)
+"Runtah Tracker: Rancamanyar! version 2.0" is a platform designed for tracking and analyzing waste data. It provides insights into waste trends, river waste, and waste transportation coverage, featuring data layers and selectable basemaps.
+*   **Key Features:** Waste data visualization, trend analysis, transportation coverage mapping, interactive layers.
+*   **Technologies Used:**
+    <p align="left">
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+      <a href="https://postgis.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgis/postgis-plain-wordmark.svg" width="36" height="36" alt="PostGIS" /></a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+    </p>
+
+---
+
+### 💧 [Pantau Banyu Kab. Cirebon](LINK_TO_PANTAU_BANYU_OR_REPO.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+    <span>PostGIS</span>
+
+---
+
+### 💧 [Pantau Banyu Kab. Cirebon](LINK_TO_PANTAU_BANYU_OR_REPO)
+A water monitoring platform for Cirebon Regency, ")
+A water monitoring platform for Cirebon Regency, "Pantau Banyu" displays critical water-related data. This includes coastline data, tidal flood potential, rainfall, change trends, socio-economic data, and various activity/flood zones, along with an analysis calculation feature.
+*   **Key Features:** Comprehensive water data visualization, flood potential mapping, trend analysis, socio-economic overlays.
+*   **Technologies Used:**
+    <p align="left">
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.Pantau Banyu" displays critical water-related data. This includes coastline data, tidal flood potential, rainfall, change trends, socio-economic data, and various activity/flood zones, along with an analysis calculation feature.
+*   githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-**Key Features:** Comprehensive water data visualization, flood potential mapping, trend analysis, socio-economic overlays.
+*   **Technologiescolored.svg" width="36" height="36" alt="Next.js" /></a>
+      :**
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src=" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/iconshttps://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/skills/nextjs-colored.svg" width="36" height="36" alt="Next./django-colored.svg" width="36" height="36" alt="Django" /></a>
+js" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="      <a href="https://postgis.net/" target="_blank" rel="noreferrer"><img src="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/mainhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgis/postgis-/public/icons/skills/django-colored.svg" width="36" height="36" altplain-wordmark.svg" width="36" height="36" alt="PostGIS" /></a>="Django" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/iconsmain/public/icons/skills/postgresql-colored.svg" width="36" height="36"/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" alt="PostgreSQL" /></a>
+    <span>PostGIS</span>
+
+---
+
+### 🛠️ [Bangun R /></a>
+    </p>
+
+---
+
+### 🛠️ [Bangun Rahmat Teknik](LINK_TOahmat Teknik](LINK_TO_BANGUN_RAHMAT_TEKNIK_OR_REPO)
+This_BANGUN_RAHMAT_TEKNIK_OR_REPO)
+This project showcases Bangun Rahmat Teknik' project showcases Bangun Rahmat Teknik's commitment to creating products with innovative technology. It highlights their two decades of experiences commitment to creating products with innovative technology. It highlights their two decades of experience and service to over 540 and service to over 540 companies, emphasizing quality and cutting-edge solutions.
+*   **Key Features:** Company companies, emphasizing quality and cutting-edge solutions.
+*   **Key Features:** Company portfolio, emphasis on design and innovation, portfolio, emphasis on design and innovation, smooth user experience.
+*   **Technologies:**
+    <a href="https://next smooth user experience.
+*   **Technologies Used:**
+    <p align="left">
+      <a hrefjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw./danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs- width="36" height="36" alt="Next.js" /></a>
+    <a href="colored.svg" width="36" height="36" alt="Next.js" /></a>
+      https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/framer-colored.svg" width="36" height="36" alt="Framer Motion" />icons/skills/framer-colored.svg" width="36" height="36" alt="F</a>
+    <!-- Note: The Framer icon is often used for Framer Motion as well -->
+
+---
+
+### 🌍 [ramer Motion" /></a>
+    </p>
+
+---
+
+### 🌍 [Environwatch](LINK_TO_Environwatch](LINK_TO_ENVIRONWATCH_OR_REPO)
+EnviroWatch is a mapping andENVIRONWATCH_OR_REPO)
+EnviroWatch is a mapping and monitoring platform designed to visualize various environmental monitoring platform designed to visualize various environmental and socio-economic indicators. It features data layers for economic, government, health, and socio-economic indicators. It features data layers for economic, government, health, entertainment, education, and research centers, entertainment, education, and research centers, along with continuous data levels.
+*   **Key Features:** Multi-layer data visualization along with continuous data levels.
+*   **Key Features:** Multi-layer data visualization, indicator mapping, boundary definitions.
+, indicator mapping, boundary definitions.
+*   **Technologies:**
+    <a href="https://nextjs.*   **Technologies Used:**
+    <p align="left">
+      <a href="https://nextjsorg/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daniel.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
+      <a href="https36" height="36" alt="Next.js" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored..com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+    <a href="httpssvg" width="36" height="36" alt="Django" /></a>
+      <a href="://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubhttps://postgis.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivrusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored..net/gh/devicons/devicon/icons/postgis/postgis-plain-wordmark.svg" width="36" height="36" alt="PostGIS" /></a>
+      <a hrefsvg" width="36" height="36" alt="PostgreSQL" /></a>
+    <span>PostGIS="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw</span>
+
+---
 
 ---
 
