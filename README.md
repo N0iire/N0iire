@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ReichanMuhammadMaulana?tab=followers">
-    <img src="https://img.shields.io/github/followers/ReichanMuhammadMaulana?label=Followers&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/N0iire?tab=followers">
+    <img src="https://img.shields.io/github/followers/N0iire?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
   <!-- Add other badges if you like, e.g., Twitter Followers -->
 </p>
@@ -65,10 +65,10 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReichanMuhammadMaulana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Reichan's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReichanMuhammadMaulana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Reichan's Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=N0iire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Reichan's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0iire&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Reichan's Top Languages" width="49%"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReichanMuhammadMaulana&theme=tokyonight&hide_border=true" alt="Reichan's Streak Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N0iire&theme=tokyonight&hide_border=true" alt="Reichan's Streak Stats" width="49%"/>
   <!-- If you contribute to many orgs: -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/orgs?username=ReichanMuhammadMaulana&theme=tokyonight&hide_border=true" alt="Org Stats" width="49%"/> -->
 </p>
@@ -97,13 +97,13 @@ Another brief description of another cool project.
 Feel free to reach out or just say hi! I'm always happy to connect with fellow tech enthusiasts.
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/reichanmuhammadgisact" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank"> <!-- Or X.com -->
+  <a href="https://twitter.com/reichamm23" target="_blank"> <!-- Or X.com -->
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com"> <!-- Replace with your email -->
+  <a href="mailto:reichan.muhammad@gmail.com"> <!-- Replace with your email -->
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <!-- If you have a personal website/portfolio: -->
@@ -117,7 +117,7 @@ Feel free to reach out or just say hi! I'm always happy to connect with fellow t
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReichanMuhammadMaulana&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=N0iire&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
 </p>
 
 <p align="center">
