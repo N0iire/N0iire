@@ -78,10 +78,6 @@
 
 ---
 
-## 💡 My Featured Projects
-
-Below are some of the projects I'm proud to have worked on. I enjoy leveraging modern technologies to create impactful and user-friendly applications.
-
 ---
 
 ---
@@ -99,8 +95,8 @@ GISACT is a company focused on providing geo-intelligence for data-driven decisi
     <p align="left">
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /></a>
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36" alt="Django" /></a>
-      <a href="https://postgis.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgis/postgis-plain-wordmark.svg" width="36" height="36" alt="PostGIS" /></a>
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
+      <span>(with PostGIS)</span>
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tensorflow.svg" width="36" height="36" alt="AI / Machine Learning" title="AI / Machine Learning" />
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apachespark.svg" width="36" height="36" alt="Data Analytics" title="Data Analytics" />
     </p>
@@ -114,8 +110,8 @@ GISACT is a company focused on providing geo-intelligence for data-driven decisi
     <p align="left">
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /></a>
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36" alt="Django" /></a>
-      <a href="https://postgis.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgis/postgis-plain-wordmark.svg" width="36" height="36" alt="PostGIS" /></a>
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
+      <span>(with PostGIS)</span>
     </p>
 
 ---
@@ -127,8 +123,8 @@ A water monitoring platform for Cirebon Regency, "Pantau Banyu" displays critica
     <p align="left">
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /></a>
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36" alt="Django" /></a>
-      <a href="https://postgis.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgis/postgis-plain-wordmark.svg" width="36" height="36" alt="PostGIS" /></a>
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
+      <span>(with PostGIS)</span>
     </p>
 
 ---
@@ -151,8 +147,8 @@ EnviroWatch is a mapping and monitoring platform designed to visualize various e
     <p align="left">
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /></a>
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36" alt="Django" /></a>
-      <a href="https://postgis.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgis/postgis-plain-wordmark.svg" width="36" height="36" alt="PostGIS" /></a>
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
+      <span>(with PostGIS)</span>
     </p>
 
 ---
