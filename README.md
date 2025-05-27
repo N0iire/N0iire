@@ -31,13 +31,13 @@
 
 ## 🚀 About Me
 
-*   👨‍💻 I'm a **Software Developer** with a deep passion for crafting innovative and efficient digital solutions.
-*   💡 Currently, I'm focusing on **[Your Current Project/Tech Focus, e.g., building scalable web applications with MERN stack, or exploring mobile development with Flutter]**.
-*   🌱 I'm always excited to learn and currently diving deeper into **[1-2 Technologies/Concepts you're learning, e.g., Go, Kubernetes, or Advanced AI Algorithms]**.
-*   💬 Ask me about **[2-3 Topics you're skilled in, e.g., JavaScript, Python, Backend Development, or Database Architecture]**.
-*   👯 I’m open to collaborating on exciting projects, especially those involving **[Types of projects you're interested in, e.g., Open Source, EdTech, or AI-driven applications]**.
-*   📫 The best way to reach me is at **[your.email@example.com]** (Replace with your actual email!) or via LinkedIn (link below).
-*   ⚡ Fun fact: For me, debugging is like solving a super challenging yet satisfying puzzle! And yes, I can code for hours when I'm in the zone. 🤓
+* 👨‍💻 I'm a Software Developer with a deep passion for crafting innovative and efficient digital solutions.
+* 💡 Currently, I'm focusing on building software with incredibly appealing user interfaces that are also computationally efficient.
+* 🌱 I'm always excited to learn and currently diving deeper into GIS & DevOps.
+* 💬 Ask me about GIS, Docker, and AI Prompting.
+* 👯 I’m open to collaborating on exciting projects, especially those involving enhancing software aesthetics, optimizing for efficiency, and contributing to the open source community.
+* 📫 The best way to reach me is at reichan.muhammad@gmail.com or via LinkedIn (https://www.linkedin.com/in/reichanmuhammadgisact/).
+* ⚡ Fun fact: For me, debugging is like solving a super challenging yet satisfying puzzle! And yes, I can code for hours when I'm in the zone. 🤓
 
 ---
 
