@@ -36,7 +36,7 @@
 * 🌱 I'm always excited to learn and currently diving deeper into GIS & DevOps.
 * 💬 Ask me about GIS, Docker, and AI Prompting.
 * 👯 I’m open to collaborating on exciting projects, especially those involving enhancing software aesthetics, optimizing for efficiency, and contributing to the open source community.
-* 📫 The best way to reach me is at reichan.muhammad@gmail.com or via LinkedIn (https://www.linkedin.com/in/reichanmuhammadgisact/).
+* 📫 The best way to reach me is at reichan.muhammad@gmail.com or via LinkedIn (https://www.linkedin.com/in/reichanmuhammad/).
 * ⚡ Fun fact: For me, debugging is like solving a super challenging yet satisfying puzzle! And yes, I can code for hours when I'm in the zone. 🤓
 
 ---
