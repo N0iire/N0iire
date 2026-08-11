@@ -63,25 +63,27 @@
 
 ## 📊 My GitHub Stats
 
-<!--
-  ⚠️  Kalau 2 kartu di bawah blank / error "503 / DEPLOYMENT_PAUSED":
-      itu BUKAN username-mu yang salah. Instance PUBLIK github-readme-stats
-      lagi di-pause Vercel karena kena limit free-tier (kejadian berulang).
-
-  ✅ FIX PERMANEN (deploy instance sendiri, ~5 menit, gratis):
-      1. Fork repo: https://github.com/anuraghazra/github-readme-stats
-      2. Import hasil fork ke https://vercel.com (bikin env var `PAT_1` = GitHub Personal Access Token)
-      3. Ganti SEMUA "github-readme-stats.vercel.app" di bawah
-         -> "github-readme-stats-<subdomain-vercel-mu>.vercel.app"
-      Setelah itu kartu nggak akan mati lagi karena limitnya jadi punyamu sendiri.
--->
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=N0iire)](https://git.io/streak-stats)]
-</p>
-<p align="center">
-  <em>Note: Top languages and stats may not be 100% accurate if they include private contributions.</em>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="165" alt="GitHub Stats"
+      src="https://github-stats-extended.vercel.app/api?username=N0iire&show_icons=true&include_all_commits=true&theme=transparent&border_radius=10&rank_icon=github" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="165" alt="Top Languages"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=N0iire&layout=compact&langs_count=8&card_width=320&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak"
+      src="https://streak-stats.demolab.com?user=N0iire&hide_border=true&border_radius=10&background=00000000&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&currStreakNum=808080&sideNums=808080&sideLabels=808080&dates=808080" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Note: Top languages reflect code volume in public repos, not skill level.</em>
+</p>
 ---
 
 ## 💡 My Featured Projects
