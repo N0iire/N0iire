@@ -76,11 +76,7 @@
       Setelah itu kartu nggak akan mati lagi karena limitnya jadi punyamu sendiri.
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N0iire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Reichan's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0iire&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Reichan's Top Languages" width="49%"/>
-  <br/>
-  <!-- FIXED: herokuapp (deprecated sejak Heroku matiin free dyno) -> streak-stats.demolab.com (domain resmi terbaru) -->
-  <img src="https://streak-stats.demolab.com/?user=N0iire&theme=tokyonight&hide_border=true" alt="Reichan's Streak Stats" width="49%"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=N0iire)](https://git.io/streak-stats)
 </p>
 <p align="center">
   <em>Note: Top languages and stats may not be 100% accurate if they include private contributions.</em>
