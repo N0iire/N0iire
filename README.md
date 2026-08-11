@@ -38,7 +38,6 @@
 * 📫 The best way to reach me is at reichan.muhammad@gmail.com or via [LinkedIn](https://www.linkedin.com/in/reichanmuhammadgisact/).
 * ⚡ Fun fact: For me, debugging is like solving a super challenging yet satisfying puzzle! And yes, I can code for hours when I'm in the zone. 🤓
 
----
 
 ## 🛠️ My Tech Stack & Favorite Tools
 
