@@ -76,7 +76,7 @@
       Setelah itu kartu nggak akan mati lagi karena limitnya jadi punyamu sendiri.
 -->
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=N0iire)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=N0iire)](https://git.io/streak-stats)]
 </p>
 <p align="center">
   <em>Note: Top languages and stats may not be 100% accurate if they include private contributions.</em>
